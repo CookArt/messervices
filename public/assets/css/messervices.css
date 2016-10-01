@@ -1,0 +1,52 @@
+.navbar-nav.navbar-right:last-child{
+    margin-top: 15px;
+}
+.panel-primary > .panel-heading{
+    background-color: #337ab7 !important;
+}
+img.logo{
+    margin-top: -25px;
+    margin-bottom: -20px;
+}
+
+.menuparent > ul{
+    width: 160px;
+    margin-left: -70px;
+}
+.menuparent > ul > li {
+    text-align: match-parent;
+}
+.widgetized-title:after, .widget h3:after{
+    background-color: #337ab7 !important;
+}
+.footer-bottom {
+    background-color: #337ab7;
+}
+.connaitre{
+    text-align: left;
+    margin-bottom: 15px;
+}
+.connaitre2{
+    text-align: right;
+    margin-bottom: 15px;
+}
+.connaitre2 .widgetized-title:after{
+    margin-left: 400px;
+}
+img.avatar-original{
+    -webkit-user-select:none;
+    display:block;
+    margin:auto;
+    width: 170px;
+    height: auto
+}
+.btn-homme {
+    color: white;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+.btn-femme {
+    color: white;
+    background-color: #c7254e;
+    border-color: #c7254e;
+}

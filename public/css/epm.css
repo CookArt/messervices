@@ -1,0 +1,66 @@
+@font-face{
+    /*font-family: "Palatino" !important;*/
+    font-family: 'Palatino' !important;
+    src: url('../fonts/Palatino.eot') !important;;
+    src: url('../fonts/Palatino.eot') format('embedded-opentype'), url('../fonts/Palatino.woff2') format('woff2'), url('../fonts/Palatino.woff') format('woff'), url('../fonts/Palatino.ttf') format('truetype'), url('../fonts/Palatino.svg') format('svg');
+}
+.grid{
+    border: 1px solid #337ab7;
+    padding: 0 5px  0 5px;
+}
+#myCarousel{
+    height: 285px;
+    background-size: 100%;
+    margin-bottom: 15px;
+}
+.carousel-inner{
+    height: 320px;
+}
+.logo{
+    height: 110px;
+    z-index: 1;
+    position: absolute;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+.breadcrumb{
+    background-color: transparent !important;
+}
+.breadcrumb .btn-primary{
+    background-color: #337ab7;
+}
+.breadcrumb .btn-primary a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.description{
+    font-size: 19px;
+    font-style: oblique;
+}
+.btn a, .btn a > i{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#table_demande tr.non {
+    /**/
+}
+.panel-heading{
+    background-color: #0581df !important;
+    color: #fff !important;
+}
+table tr[data-href].non{
+    background-color: #999999;
+    color: #fff;
+}
+table tr[data-href]{
+    cursor: pointer;
+    background-color: #ddd;
+    color: #444;
+}
+table tr[data-href]:hover{
+    background-color: #0581df;
+    opacity: 0.5;
+    color: #fff;
+}
