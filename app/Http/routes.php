@@ -20,9 +20,9 @@ use Illuminate\Support\Facades\View;
     Route::get('/terms','HomeController@terms');
 /*-------------------------- HomeController --------------------------------*/
 
-    Route::get('/home', 'HomeController@index'); //route vèrs page d'accueil
-    Route::get('/', 'HomeController@index'); //route vèrs page d'accueil
-    Route::get('contact','HomeController@contact'); //route vèrs page de contact
+    Route::get('/home', 'HomeController@index'); //route vÃ¨rs page d'accueil
+    Route::get('/', 'HomeController@index'); //route vÃ¨rs page d'accueil
+    Route::get('contact','HomeController@contact'); //route vÃ¨rs page de contact
     Route::post('/', 'HomeController@saveInfo');
 
 /*-------------------------- Fin HomeController -----------------------------*/

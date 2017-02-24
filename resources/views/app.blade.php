@@ -50,7 +50,7 @@
                             <a class="navbar-brand" href="/">
                                 <span class="logo-styled">
                                     <span class="logo-title">
-                                        <img src="/img/logo.png" class="logo" alt="">
+                                        <img src="/img/Laravel_files/logo.png" class="logo" alt="">
                                     </span><!-- /.logo-title -->
                                 </span><!-- /.logo-styled -->
                             </a>
@@ -113,7 +113,7 @@
                                                             class="hidden-xs"> Mon profil</span></a></li>
                                             <li><a href="{{ url('/auth/logout') }}"><i
                                                             class="glyphicon glyphicon-log-out"></i> <span
-                                                            class="hidden-xs"> D&eacute;connexion</span></a></li>
+                                                            class="hidden-xs"> Déconnexion</span></a></li>
                                         </ul>
                                     </li>
                                 @endif
@@ -155,7 +155,7 @@
                 <div class="footer-bottom">
                     <div class="container">
                         <nav class="clearfix">
-                            Developp� par CookArt
+                            Developpé par CookArt
                         </nav>
 
                         <div class="copyright">

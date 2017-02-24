@@ -11,7 +11,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 						<div class="alert alert-danger alert-dismissible col-md-11" role="alert">
-							<strong>Attention!</strong> Ceci est votre premi&egrave;re connexion donc veuillez renseigner les infos suivantes.
+							<strong>Attention!</strong> Ceci est votre premi√®re connexion donc veuillez renseigner les infos suivantes.
 						</div><div class="clearfix"></div>
 						<div class="panel panel-primary col-md-11">
 							<div class="panel-heading row">Informations personelles</div>
@@ -60,7 +60,7 @@
 		@endif
 	@endif
 		<div class="container-fluid">
-			<h1 class="widgetized-title">Et‰retia porotetani maohi</h1>
+			<h1 class="widgetized-title">MesServices</h1>
 
 			<div class="row panel panel-default">
 
